@@ -1,0 +1,62 @@
+/* App-specific styles */
+.App {
+  min-height: 100vh;
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+/* Fix white text on white background issues */
+.bg-white {
+  color: #333333;
+}
+
+/* Dark background for the visualizer */
+.bg-gray-100 {
+  background-color: #232323;
+  color: #f5f5f5;
+}
+
+/* Parameter panel background */
+.bg-white.rounded-lg {
+  background-color: #2c2c2c;
+  color: #f5f5f5;
+}
+
+/* Info panel background */
+.bg-blue-50 {
+  background-color: #1a2536;
+  color: #d8e6f5;
+}
+
+/* Keep labels and text readable */
+.text-sm, .text-md, .text-lg, .font-medium, .font-semibold {
+  color: #e0e0e0;
+}
+
+/* Override for input labels */
+.block.text-sm.font-medium.mb-1 {
+  color: #e0e0e0;
+}
+
+/* Text in the panel */
+.bg-white .text-sm,
+.bg-white h2,
+.bg-white h3,
+.bg-white h4,
+.bg-white p,
+.bg-white li {
+  color: #e0e0e0;
+}
+
+/* For the blue panel */
+.bg-blue-50 h3,
+.bg-blue-50 h4,
+.bg-blue-50 p,
+.bg-blue-50 li {
+  color: #d8e6f5;
+}
+
+/* Border colors */
+.border-blue-200 {
+  border-color: #1e3a5f;
+}
