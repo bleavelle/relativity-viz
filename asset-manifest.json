@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/relativity-viz/static/css/main.dcd78dea.css",
+    "main.js": "/relativity-viz/static/js/main.bf77e343.js",
+    "index.html": "/relativity-viz/index.html",
+    "main.dcd78dea.css.map": "/relativity-viz/static/css/main.dcd78dea.css.map",
+    "main.bf77e343.js.map": "/relativity-viz/static/js/main.bf77e343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd78dea.css",
+    "static/js/main.bf77e343.js"
+  ]
+}
