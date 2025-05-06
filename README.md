@@ -22,7 +22,7 @@ An interactive visualization tool for exploring concepts from Einstein's theory 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/relativity-viz.git
+git clone https://github.com/bleavelle/relativity-viz.git
 cd relativity-viz
 
 # Install dependencies

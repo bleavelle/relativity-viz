@@ -2,7 +2,7 @@
   "name": "relativity-viz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/relativity-viz",
+  "homepage": "https://bleavelle.github.io/relativity-viz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
